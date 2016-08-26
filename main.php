@@ -1,0 +1,6 @@
+<?php
+
+//Web service code
+
+
+?>
